@@ -1,3 +1,4 @@
+
 #vbody img {
     text-align: right;
     width: 200px;
@@ -29,4 +30,29 @@
 }
 html {
     background-color: rgb(206, 190, 168);
+}
+
+.cbody {
+    margin: 5px;
+    padding: 10px;
+}
+.cbody img {
+    width: 240px;
+    height: 200px;
+}
+.cbody p{
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+
+}
+.cbody a {
+    color: black;
+}
+.cbody a:visited{
+    color: black;
+}
+.cbody a:hover{
+    color: darkolivegreen;
+    background-color: antiquewhite;
 }
