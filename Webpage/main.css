@@ -56,3 +56,32 @@ html {
     color: darkolivegreen;
     background-color: antiquewhite;
 }
+
+
+
+.abody {
+    margin: 5px;
+    padding: 10px;
+}
+.abody img {
+    width: 240px;
+    height: 200px;
+}
+.abody p{
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+
+}
+.abody a {
+    color: black;
+}
+.abody a:visited{
+    color: black;
+}
+.abody a:hover{
+    color: darkolivegreen;
+    background-color: antiquewhite;
+}
+
+
