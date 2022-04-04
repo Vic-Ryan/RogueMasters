@@ -1,0 +1,87 @@
+
+#vbody img {
+    text-align: right;
+    width: 200px;
+    height: 200px;
+}
+
+#vbody h3 {
+    text-align: center;
+}
+
+#vbody table {
+    text-align: center;
+}
+
+#motto {
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    padding-left: 900px;
+    padding-bottom: 50px;
+}
+
+#teamname {
+    text-align: center;
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    background-color: rgb(119, 25, 25);
+    color: white;
+}
+html {
+    background-color: rgb(206, 190, 168);
+}
+
+.cbody {
+    margin: 5px;
+    padding: 10px;
+}
+.cbody img {
+    width: 240px;
+    height: 200px;
+}
+.cbody p{
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+
+}
+.cbody a {
+    color: black;
+}
+.cbody a:visited{
+    color: black;
+}
+.cbody a:hover{
+    color: darkolivegreen;
+    background-color: antiquewhite;
+}
+
+
+
+.abody {
+    margin: 5px;
+    padding: 10px;
+}
+.abody img {
+    width: 240px;
+    height: 200px;
+}
+.abody p{
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+
+}
+.abody a {
+    color: black;
+}
+.abody a:visited{
+    color: black;
+}
+.abody a:hover{
+    color: darkolivegreen;
+    background-color: antiquewhite;
+}
+
+
